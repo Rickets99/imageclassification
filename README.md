@@ -9,3 +9,7 @@ This project is a Gradio-based web application that allows users to classify ima
   - Food Model
   - Another Model
   - Facial Emotions Image Detection
+
+
+
+![image](https://github.com/Rickets99/imageclassification/assets/144393706/61c89edb-78f2-4514-aa7b-503d5e82130e)
